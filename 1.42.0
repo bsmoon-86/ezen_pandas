@@ -1,0 +1,12 @@
+Collecting azureml-sdk[automl,explain,notebooks]
+  Downloading azureml_sdk-1.53.0-py3-none-any.whl (2.7 kB)
+Collecting azureml-pipeline~=1.53.0
+  Downloading azureml_pipeline-1.53.0-py3-none-any.whl (2.4 kB)
+Collecting azureml-dataset-runtime[fuse]~=1.53.0
+  Downloading azureml_dataset_runtime-1.53.0-py3-none-any.whl (2.3 kB)
+Collecting azureml-train-core~=1.53.0
+  Downloading azureml_train_core-1.53.0-py3-none-any.whl (8.6 MB)
+Collecting azureml-core~=1.53.0
+  Downloading azureml_core-1.53.0-py3-none-any.whl (3.3 MB)
+Collecting azureml-train-automl-client~=1.53.0
+  Downloading azureml_train_automl_client-1.53.0-py3-none-any.whl (137 kB)
